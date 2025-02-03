@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an Stroke-rehabilitation-position pipeline using OpenCV, Google MediaPipe, and SAM 2. The system detects and tracks hand movements in a video, generating segmentation masks for each frame and producing an output video with masked hands.
+This project implements an Stroke-rehabilitation-position pipeline using OpenCV, Google MediaPipe, and SAM 2. The system detects and tracks hand movements in a video, generating segmentation masks for each frame and producing an output video with masked hands. Also, Inthis project I have a mac os device so, I have used Google Colab.
 
 ## Features
 
