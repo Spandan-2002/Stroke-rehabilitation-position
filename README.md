@@ -57,7 +57,7 @@ python main.py --input test.mp4 --output masked_video.mp4
 ├── Data/                                # Data
     ├── test.mp4                         # Sample Input Video 
 ├── Output/                              # Output Data
-    ├── tracked_output-3.mp4             # Sample Output Video
+    ├── tracked_output.mp4               # Sample Output Video
 ├── src/                                 # Source code
 │   ├── detect_hands.py                  # Hand detection with MediaPipe
 │   ├── track_hands.py                   # Hand tracking using SAM 2 
